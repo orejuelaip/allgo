@@ -1,0 +1,10 @@
+!SESSION 2016-07-08 23:01:46.991 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.jobs 2 2 2016-07-08 23:10:24.875
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.epp.internal.logging.aeri.ui.log.ProblemsDatabaseUpdateJob

@@ -1,0 +1,2 @@
+# allgo
+proyecto
